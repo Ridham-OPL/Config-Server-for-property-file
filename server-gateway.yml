@@ -66,12 +66,12 @@ springdoc:
   swagger-ui:
     enabled: true
     path: /swagger-ui.html
-   urls:
-     - name: Service User
-       url: /user-service/v3/api-docs
-     - name: Service Admin
-       url: /admin-service/v3/api-docs
-     - name: Service Contact
-       url: /contact-service/v3/api-docs
-     - name: Service Auth
-       url: /auth-service/v3/api-docs
+   # urls:
+   #   - name: Service User
+   #     url: /user-service/v3/api-docs
+   #   - name: Service Admin
+   #     url: /admin-service/v3/api-docs
+   #   - name: Service Contact
+   #     url: /contact-service/v3/api-docs
+   #   - name: Service Auth
+   #     url: /auth-service/v3/api-docs
