@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SpringAdminManager
+  security:
+    user:
+      name: springAdmin
+      password: adm123
+
+server:
+  port: 5051
